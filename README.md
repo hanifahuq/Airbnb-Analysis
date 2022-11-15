@@ -6,7 +6,7 @@ Potential aims to inspect:
  - Common characteristics of the most popular airbnb's
 
 ## Technologies
-Jupyter Notebook <br \>
+Jupyter Notebook <br />
 Python
 
 ## Data Source
